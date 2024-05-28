@@ -36,6 +36,14 @@ Navigation: Use the graphical interface to navigate through different features l
  - Build and run the application.
 
 ## Screenshot
+### Login:
+<img src="https://raw.githubusercontent.com/agha-naveed/library-management/main/Libray_Management/SS/Screenshot%202024-05-27%20221155.png">
+
+### Dashboard
+<img src="https://raw.githubusercontent.com/agha-naveed/library-management/main/Libray_Management/SS/Screenshot%202024-05-27%20221225.png">
+
+### Add Books Page
+<img src="https://raw.githubusercontent.com/agha-naveed/library-management/main/Libray_Management/SS/Screenshot%202024-05-27%20221236.png">
 
 ## Support
 For any issues or questions, please contact naveedabs31@gmail.com

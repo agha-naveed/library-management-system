@@ -1,18 +1,18 @@
 # Library Management Software
-This Library Management Software is developed using Java and SQL to efficiently manage library operations. It provides features to manage new books, track total books, authors, borrowings, and returnings, along with a user-friendly graphical user interface (GUI).
+This Library Management Software is developed using Java, SQL to efficiently manage library operations and UCanAccess Java JDBC driver capable of reading and writing Microsoft Access databases. It provides features to manage new books, track total books, authors, borrowings, and returnings, along with a user-friendly graphical user interface (GUI).
 
 ## Features
 Add New Books: Allows users to add new books to the library with details such as author name, section, quantity, and price.
 
-Total Books: Provides a count of total books available in the library.
+<b>Total Books:</b> Provides a count of total books available in the library.
 
-Total Authors: Displays the count of unique authors whose books are available in the library.
+<b>Total Authors:</b> Displays the count of unique authors whose books are available in the library.
 
-Books Borrowed: Tracks the total number of books borrowed by library users.
+<b>Books Borrowed:</b> Tracks the total number of books borrowed by library users.
 
-Borrower Data: Stores borrower information including registration number or CNIC for identification purposes.
+<b>Borrower Data:</b> Stores borrower information including registration number or CNIC for identification purposes.
 
-Return Management: Manages the return process including returning time, late fees calculation, and total price calculation.
+<b>Return Management:</b> Manages the return process including returning time, late fees calculation, and total price calculation.
 
 ## Getting Started
 To use the Library Management Software, follow these steps:
